@@ -1,0 +1,7 @@
+\documentclass[./main.tex]{subfiles}
+
+\begin{document}
+Logstash is an application that follows a three stage process: receive inputs from server logs, use filters to normalize data, and output it so that Elasticsearch can quickly store it as a JSON file. It’s important to note that Logstash can act as its own server instance rather than residing on the same instance as the data store, as can all parts of the ELK stack. This setup would be best in a production environment, whereas having the entire ELK stack on one server instance would be beneficial to learn the internal components of each application or for demonstrating a proof of concept.
+
+In the case of a production environment, Logstash would need to have a way to communicate log files back to Logstash for further processing, storage, and analysis. To do this we use system daemons called Elastic Beats. Elastic Beats are lightweight daemons written in the Go programming language. Elastic Beats reside on each endpoint that requires monitoring. They communicate using TLS 1.2 encryption to ensure the confidentiality of the log data remains intact while in transit.
+\end{document}
