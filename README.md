@@ -1,7 +1,7 @@
 # Improving the Security of Cloud Based Systems
 Capstone project for Fordham University Graduate School of Arts and Sciences Master of Science in Cybersecurity program.
 
-**PDF Version:** [https://www.github.com/josephleroy/capstone-project/capstone.pdf](https://www.github.com/josephleroy/capstone-project/capstone.pdf)
+**PDF Version:** [https://github.com/josephleroy/capstone-project/blob/master/capstone.pdf](https://github.com/josephleroy/capstone-project/blob/master/capstone.pdf)
 
 ## Table of contents
 
