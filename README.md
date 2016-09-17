@@ -1,6 +1,8 @@
 # Improving the Security of Cloud Based Systems
 Capstone project for Fordham University Graduate School of Arts and Sciences Master of Science in Cybersecurity program.
 
+**PDF Version:** [https://www.github.com/josephleroy/capstone-project/capstone.pdf](https://www.github.com/josephleroy/capstone-project/capstone.pdf)
+
 ## Table of contents
 
 * [Abstract](#abstract)
@@ -14,9 +16,9 @@ The cloud ecosystem has emerged as one of the most dominant technology services 
 ## Programming
 
 ## Future Work
-Containerize all listed applications and develop deployment scripts to allow rapid provisioning. 
+Containerize all listed applications and develop deployment scripts to allow rapid provisioning.
 
 ## License Information
-Copyright © 2016 Joseph LeRoy 
+Copyright © 2016 Joseph LeRoy
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
